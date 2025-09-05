@@ -1,7 +1,7 @@
 # FasterMOT
 
 ## backbone
-![fasterMot backbone](.\visualization\backbone_large.png)
+![fasterMot backbone](./visualization/backbone_large.png)
 
 ## Experience
 1.Training ablation model：
