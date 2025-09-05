@@ -1,0 +1,15 @@
+{
+    "root":"/home/extend/zhy/code/fairbyte/src/lib/cfg/data",
+    "train":
+    {
+        "NEU-MOT":"./data/NEU-MOT.train"
+    },
+    "test_emb":
+    {
+        "NEU-MOT":"./data/NEU-MOT.val"
+    },
+    "test":
+    {
+        "NEU-MOT":"./data/NEU-MOT.val"
+    }
+}

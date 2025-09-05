@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3  -rdynamic CMakeFiles/example_dance.dir/examples/example_dance.cpp.o  -o example_dance  -L/home/robot112/FairMOT-master/src/unitree_legged_sdk/lib -Wl,-rpath,/home/robot112/FairMOT-master/src/unitree_legged_sdk/lib -pthread -lunitree_legged_sdk_amd64 -llcm 
